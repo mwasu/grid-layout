@@ -184,10 +184,9 @@ footer {
 
 @media(max-width: 500px) {
     .top-container {
-        grid-template-columns: 
+        grid-template-areas: 
             'showcase' 
             'top-box-a' 
             'top-box-b'
     }
 }
-]
